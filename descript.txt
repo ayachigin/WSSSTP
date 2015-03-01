@@ -1,0 +1,8 @@
+Charset,UTF-8
+name,WebSocketSSTP
+craftman,Ayachi Gin
+filename,exeexe.dll
+secondchangeinterval,0
+otherghosttalk,0
+id,8C2B5C10-BFC2-11E4-BB52-0800200C9A66
+homeurl,https://raw.githubusercontent.com/ayachigin/WSSSTP/master/
