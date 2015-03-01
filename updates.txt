@@ -2,5 +2,5 @@ file,descript.txta796f0e2fb3a965fd4a396b72bb65da0size=228
 file,developer_options.txt3584cb95e0d1a84f6fe68faba1a5c009size=99
 file,exeexe.dll3ee75d5e50300618e21c1513315df8c0size=573468
 file,install.txta4add4975b6706629d84a5462e40e1ccsize=132
-file,readme.txt0ac370ec3ff131db2b1c877011730317size=273
+file,readme.txt1f11ce6cc324679dd8e10ab369e524ecsize=273
 file,WSSSTP.exec22840487ac3880304c6f51b52b7b5f6size=7729478
