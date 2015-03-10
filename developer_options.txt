@@ -4,3 +4,7 @@ log.txt,nonar
 log.txt,noupdate
 nar/,nonar
 nar/,noupdate
+.git/,nonar
+.git/,noupdate
+.gitignore,nonar
+.gitignore,noupdate
