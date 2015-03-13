@@ -1,5 +1,5 @@
 file,descript.txtc23c598548d0946efd78131103317aacsize=228
-file,developer_options.txtd8976ecaca5f2abccc64778a09dd39afsize=165
+file,developer_options.txta4ced447a7b8a1011d2c5a7a9f0a6428size=119
 file,errorLog.txte7f705bf3c31b4e6770498b23d34c480size=45
 file,install.txta4add4975b6706629d84a5462e40e1ccsize=132
 file,readme.txt1f11ce6cc324679dd8e10ab369e524ecsize=273
